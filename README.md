@@ -1,4 +1,4 @@
-![Header](https://github.com/GalinaMonitor/galinamonitor/assets/header.jpg)
+![Header](https://github.com/GalinaMonitor/galinamonitor/blob/main/assets/header.jpg)
 
 About me
 
