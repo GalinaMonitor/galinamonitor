@@ -18,8 +18,11 @@ In free time I study the stack of web technologies:
 ![JS](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react)
 
-[![Gmonitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=galinamonitor&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galinamonitor&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=galinamonitor&show_icons=true&theme=radical" />
+</a>
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=galinamonitor&theme=radical&layout=compact" />
+</a>
+<!-- (https://github-readme-stats.vercel.app/api/top-langs/?username=galinamonitor&theme=radical&layout=compact) -->
