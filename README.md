@@ -2,16 +2,9 @@
 
 # Hi,I am Backend Developer
 
-# Main course options are:
-
-![C](https://img.shields.io/badge/pointers-090909?style=for-the-badge&logo=c&logoColor=blue)
-![Terminal](https://img.shields.io/badge/terminal-090909?style=for-the-badge&logo=linux&logoColor=white)
-![VM](https://img.shields.io/badge/vm-090909?style=for-the-badge&logo=VirtualBox&logoColor=blue)
-
-In free time I study the stack of web technologies:
-
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django)
+![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker)
 ![Postgre](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql)
 ![Nginx](https://img.shields.io/badge/nginx-090909?style=for-the-badge&logo=nginx)
 
