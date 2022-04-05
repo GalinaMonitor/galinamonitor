@@ -1,10 +1,6 @@
 ![Header](https://github.com/GalinaMonitor/galinamonitor/blob/main/assets/header.jpg)
 
-# Hi,I am beginner Backend Programmer
-
-## I'm studying programming at school 21(Ecole 42).
-
-<img src="https://badge42.herokuapp.com/api/stats/gmonitor?&darkmode=true" />
+# Hi,I am Backend Developer
 
 # Main course options are:
 
