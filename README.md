@@ -6,7 +6,8 @@
 ![Django](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django)
 ![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker)
 ![Postgre](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql)
-![Nginx](https://img.shields.io/badge/nginx-090909?style=for-the-badge&logo=nginx)
+![FastAPI](https://img.shields.io/badge/fastapi-090909?style=for-the-badge&logo=fastapi)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=galinamonitor&show_icons=true&theme=radical" />
