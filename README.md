@@ -1,6 +1,6 @@
 ![Header](https://github.com/GalinaMonitor/galinamonitor/blob/main/assets/header.jpg)
 
-# Hi,I am Backend Developer
+# Hi, I am Backend Developer
 
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django)
